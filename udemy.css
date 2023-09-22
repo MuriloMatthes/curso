@@ -1,0 +1,50 @@
+/* Estilos para o corpo da página */
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #f4f4f4; /* Cor de fundo */
+}
+
+/* Estilos para o cabeçalho (h1) */
+h1 {
+    color: #333;
+}
+
+/* Estilos para os links (a) */
+a {
+    color: #007BFF;
+    text-decoration: none;
+    display: block;
+    margin-bottom: 10px;
+}
+
+a:hover {
+    color: #0056b3;
+}
+
+/* Estilos para a imagem da bandeira */
+.flag {
+    width: 50px; /* Ajuste a largura conforme necessário */
+    height: auto; /* Ajuste a altura automaticamente */
+}
+
+/* Estilos para os links de redes sociais */
+.nv {
+    display: block;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    background-color: #007BFF;
+    color: white;
+    font-weight: bold;
+}
+
+.nv:hover {
+    background-color: #0056b3;
+}
